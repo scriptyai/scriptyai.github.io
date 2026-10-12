@@ -1,0 +1,6 @@
+# Netlify Redirects
+# Proxy API requests to Netlify Serverless Functions
+/api/*  /.netlify/functions/api/:splat  200
+
+# Fallback for Single Page Application client-side routing
+/*      /index.html                     200
