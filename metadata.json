@@ -1,6 +1,0 @@
-{
-  "name": "Mujtaba Scripty AI",
-  "description": "AI-powered Executor (UNC) Lua script generator and coding assistant for Roblox executors.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
